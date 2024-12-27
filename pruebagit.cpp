@@ -8,6 +8,7 @@ int main(){
     cout << "cambio 1" << endl;
     cout << "cambio 2" << endl;
     cout << "cambio 3" << endl;
+    cout << "cambio 4" << endl;
 
     return 0;
 }
